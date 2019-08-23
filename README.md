@@ -18,7 +18,7 @@ By using a USB-to-LAN adapter it's still possible to use the wired network of th
     (Leave DNS empty)
 
 ### Running
-Run `ovenControl.py` from a terminal, be sure that there is a `.csv` file with the schedule. This takes the format of
+Run `ovenControl.py` from a terminal, be sure that there is a `program.csv` file with the schedule. This takes the format of
 
     temperature, duration
     
